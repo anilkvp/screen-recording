@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Screen Casting</string>
+    <string name="btn_record">Record</string>
+    <string name="btnShare">Share</string>
+    <string name="btnDelete">Delete</string>
+</resources>
